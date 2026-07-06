@@ -231,12 +231,12 @@ tk.Label(root,
          bg="black",
          font=("Arial", 12, "bold")).pack(pady=10)
 team = [
-    "G S Jayanth Kumar : 4JN25CD011",
-    "Mallikarjuna H M : 4JN25CD021",
-    "Shashank C M : 4JN25CD047",
-    "Preetham G M : 4JN25CD032",
-    "Aditya A K : 4JN25ET024",
-    "Sumanth L A : 4JN25ET042"
+    "Team Member 1",
+    "Team Member 2",
+    "Team Member 3",
+    "Team Member 4",
+    "Team Member 5",
+    "Team Member 6"
 ]
 
 frame_team = tk.Frame(root, bg="black")
